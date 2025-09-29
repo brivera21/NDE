@@ -87,7 +87,7 @@ A typical result shows:
 
 ```
 numerical-distance-effect/
-├── NDEexperiment.py       # Main experiment script
+├── NDE_experiment.py       # Main experiment script
 ├── analyze_data.py        # Data analysis script
 └── README.md
 ```
