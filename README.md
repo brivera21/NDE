@@ -87,13 +87,8 @@ A typical result shows:
 
 ```
 numerical-distance-effect/
-├── experiment.py          # Main experiment script
+├── NDEexperiment.py       # Main experiment script
 ├── analyze_data.py        # Data analysis script
-├── requirements.txt       # Python dependencies
-├── data/                  # Data directory
-│   └── .gitkeep
-├── stimuli/              # Stimulus files
-├── results/              # Analysis outputs and figures
 └── README.md
 ```
 
